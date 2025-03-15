@@ -20,3 +20,7 @@ technologies.The goal of this project is to develop a web-based document editor 
 conflicts while providing features like version control, role-based access, and offline editing capabilities. The editor will function similarly to Google Docs, enabling users to create, modify, and collaborate on 
 
 text-based documents efficiently.##
+
+#output
+
+![Image](https://github.com/user-attachments/assets/56934b24-1bff-46b1-b757-94a9ce4f4d8f)
